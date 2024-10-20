@@ -2,7 +2,7 @@ scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modifie
 
 Snail IDE: src/lib/default-project/592bae6f8bb9c8d88401b54ac431f7b6.svg is based on [Twemoji](https://twemoji.twitter.com/) and is licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/   
 ## Modding
-1. If you have a domain click fork and name it whatever you want. if your going to use github.io then do this click for then name It <your username>.github.io
+1. If you have a domain click fork and name it whatever you want. if your going to use github.io then do this click for then name It (your username).github.io
 2. click on actions then click on node.js.yml then click run workflow
 3. go to settings> pages then click on github actions then if you have a custom domain then do custom domain, if your using github.io then it already set
 4. Your Done! 😄
