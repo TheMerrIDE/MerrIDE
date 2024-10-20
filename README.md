@@ -1,5 +1,10 @@
-scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://studio.penguinmod.com) then modified for use in [Snail IDE](https://editor.snail-ide.com) and the modified for use in [MerrIDE](https://merride.us.to)
-
+scratch-gui modified for use in [TurboWarp](https://turbowarp.org/) then modified for use in [PenguinMod](https://studio.penguinmod.com) then modified for use in [Snail IDE](https://editor.snail-ide.com) and the modified for use in [MerrIDE](https://merride.us.to) 😃
+##Modding
+1. If you have a domain click fork and name it whatever you want. if your going to use github.io then do this click for then name It your username.
+2. click on actions then click on node.js.yml then click run workflow
+3. go to settings> pages then click on github actions then if you have a custom domain then do custom domain, if your using github.io then it already set
+4. Your Done! 😄
+##Stuff
 Snail IDE: src/lib/default-project/592bae6f8bb9c8d88401b54ac431f7b6.svg is based on [Twemoji](https://twemoji.twitter.com/) and is licensed under CC BY 4.0 https://creativecommons.org/licenses/by/4.0/   
 ## Setup
 to run snail ide on your computer, you'll need nvm (node version manager).<br>
