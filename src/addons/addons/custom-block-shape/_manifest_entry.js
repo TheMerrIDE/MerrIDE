@@ -60,7 +60,7 @@ const manifest = {
       "id": "notchSize",
       "type": "integer",
       "min": 0,
-      "default": 100,
+      "default": 0,
       "max": 150
     }
   ],
