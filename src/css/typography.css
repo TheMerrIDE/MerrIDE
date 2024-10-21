@@ -1,9 +1,9 @@
 @font-face {
-  font-family: myFirstFont;
+  font-family: Minecraft;
   src: url(MinecraftTen-VGORe.ttf);
 }
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family:Minecraft;
 }
 
 h2 {
