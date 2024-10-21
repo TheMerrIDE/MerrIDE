@@ -1,9 +1,5 @@
-@font-face {
-  font-family: Minecraft;
-  src: local(MinecraftTen-VGORe.ttf);
-}
 body {
-    font-family:Minecraft;
+    font-family:Monospace;
 }
 
 h2 {
